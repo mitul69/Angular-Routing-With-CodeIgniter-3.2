@@ -1,7 +1,7 @@
 # Angular-JS-With-CodeIgniter-3.2
 Angular JS With CodeIgniter 3.2 
 
-#Basic Demo of Integration of Angular JS in CodeIgniter
+#Basic Demo of Angular JS with CodeIgniter
 
 Step to config
 
