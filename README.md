@@ -5,8 +5,10 @@ Angular Routing With CodeIgniter 3.2
 
 Step to config
 
-1 ) Create database and import the ci-demo.sql file in your database
-2 ) Set database username and password 
+1) Create database and import the ci-demo.sql file in your database
+
+2) Set database username and password 
+
 3) Config your config file 
 
 
